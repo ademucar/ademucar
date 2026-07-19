@@ -9,9 +9,9 @@
 </p>
 
 <!-- ====== ABOUT BULLETS ====== -->
-- 🔭 Şu an **yapay zeka**, **veri bilimi** ve **full-stack** projeler üzerinde çalışıyorum
+- 🔭 Şu an **yapay zeka**, **veri bilimi** ve **full-stack** projeler üzerinde çalışıyorum.
 
-- 🎓 **Eskişehir Osmangazi Üniversitesi**'nde okuyorum
+- 🎓 **Eskişehir Osmangazi Üniversitesi**'nde okuyorum.
 
 <!-- ====== CONNECT ====== -->
 <h3 align="left">Benimle iletişime geç</h3>
