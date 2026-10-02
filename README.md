@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/ademucarr_/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://ademucarr.netlify.app/" target="_blank">
+  <a href="https://ademucar.com.tr/" target="_blank">
     <img src="https://i.ibb.co/YByRgxFM/aucr.png" alt="AUCR" height="30" />
   </a>
 </p>
